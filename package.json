@@ -29,3 +29,9 @@
     "vite": "^6.3.5"
   }
 }
+{
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
